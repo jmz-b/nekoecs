@@ -1,0 +1,3 @@
+[submodule "lib/cmake/sdl2"]
+	path = lib/cmake/sdl2
+	url = git@github.com:ElDesalmado/sdl2-cmake-modules.git
